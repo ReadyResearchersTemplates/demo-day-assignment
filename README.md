@@ -40,6 +40,8 @@ help structure your approach:
 The point of this section shouldn't be to best competitors or other researchers, merely to demonstrate that there's
 efficacy in your approach that explores new (or old!) opportunities.
 
+Here, if you've got graphs or charts: bring 'em. Statstics that underscore your point? It's probably _now_ or never.
+
 #### `Userbase` (alternatively, `Audience`)
 
 Building software for _everyone_ isn't really possible, especially at our scale. Ideally, who is your user or audience?
@@ -63,4 +65,12 @@ Some areas to cover in this section (not limited to):
 
 #### `Conclusion`
 
-It's easy at this point to believe that your presentation, as full of content as it is, says and shows enough.
+It's easy at this point to believe that your presentation, as full of content as it is, says and shows enough. However,
+consider your `Conclusion` your opportunity to further shape and refine the impact that your 4-minute data dump will have.
+To achieve this successfully, list the `3` or `4` facts about your project that you want the audience to remember. No need
+to stealthily introduce these: it can be an explicit list of features with some reminders or re-situation. These points
+constitute what you'd most like folks to ask you about after your presentations; they serve as points of engagement.
+
+You want to leave your audience with a sense of concreteness and cohesiveness, arriving at the end of a highly-structured
+and practiced `5` minutes whose conclusion feels clear and inevitable.
+
