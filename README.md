@@ -114,5 +114,27 @@ Slides which feature multiple, competing ideas are confusing. Each slide's conte
 Looking at the amount of information expected to come from the presentation, we encounter a problem: how do we present this information
 with restrictions that make it seem like there should only be `7` (or fewer) slides? We do it in `7` or fewer slides.
 
-Keep in mind that this presentation is not for the presenter relaying the content. Slides shape the _experience_ of the physical 
-presentation.
+Keep in mind that this presentation is not for the presenter relaying the content. Slides shape the _experience_ of the physical
+presentation. The ways in which a given slide reinforces (but does not _duplicate_!) what the content you're delivering helps
+the audience with our two retention problems:
+
+* folks will really only remember the 3-4 facts you use as your presentation `Conclusion`
+* the audience will only pay attention to 1 idea at a time
+
+##### On practice
+
+In one verb: _practice_.
+
+Presentations are capped at `5` minutes. It'll be over before you know it and, if you don't have the chance to make it to
+the ultimate concluding slide(s), you've lost your chance to make the presentation feel (as written above) _clear_ and _inevitable_.
+
+Short assignments in this course will force you to practice, though you should practice even more on your own. You should
+practice with friends that know your project. You should practice with friends that don't know your project. You should
+practice with your reader. Ideally, practice with anyone who you can convince to pay attention.
+
+As presentation day approaches, you should be able to present your `5` minutes as if a memorized fact. The only way you get there
+is by practice.
+
+### Evaluation
+
+
