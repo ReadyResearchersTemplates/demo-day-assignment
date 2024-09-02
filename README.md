@@ -72,5 +72,47 @@ to stealthily introduce these: it can be an explicit list of features with some 
 constitute what you'd most like folks to ask you about after your presentations; they serve as points of engagement.
 
 You want to leave your audience with a sense of concreteness and cohesiveness, arriving at the end of a highly-structured
-and practiced `5` minutes whose conclusion feels clear and inevitable.
+and practiced `5` minutes whose conclusion feels clear and inevitable. Second only to the [`Introduction`](#introduction)
+in difficulty, the `Conclusion` is possibly the most important section in the presentation: it serves as the _last_ thing
+anyone will see or hear.
 
+### Slides
+
+The following guidelines and suggestions will appear arbitary and restrictive, but focus on a couple of key assumptions
+derived from situations where slide decks go wrong:
+
+1. Slides are not for the presenter (i.e., you)
+2. Slides merely support a presentation and are not, themselves, a substitute for one
+
+Similar to the description of the [presentation `Conclusion`](#conclusion), we'll assume that folks have a limited memory.
+
+Let's follow [the former Y Combinator Partner Kevin Hale](https://www.ycombinator.com/blog/how-to-design-a-better-pitch-deck/)
+on a general rubric for _all_ slides:
+
+> * Make it legible
+> * Make it simple
+> * Make it obvious
+
+#### Design
+
+##### On legibility
+
+Many slides aren't _readable_ because color choices do not provide enough contrast (i.e. ability to differentiate between any
+two colors on a slide). In addition, slides often cram a lot of type on a single slide (even slides for this course are
+guilty of this). Here are there rules to heavily consider:
+
+1. use a sufficiently large typeface for everyone in the room to read
+2. pair colors which feature high difference (i.e. contrast)
+3. use fewer than 10 words on a given slide
+
+##### On density
+
+Slides which feature multiple, competing ideas are confusing. Each slide's content should represent one idea and _only_ one idea.
+
+##### On content
+
+Looking at the amount of information expected to come from the presentation, we encounter a problem: how do we present this information
+with restrictions that make it seem like there should only be `7` (or fewer) slides? We do it in `7` or fewer slides.
+
+Keep in mind that this presentation is not for the presenter relaying the content. Slides shape the _experience_ of the physical 
+presentation.
