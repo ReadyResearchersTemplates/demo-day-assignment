@@ -1,5 +1,12 @@
 ![CMPSC 600 - GH Banner](https://github.com/user-attachments/assets/0807c6ea-3fa1-4242-8933-bca919804d1f)
 
+|Date              |                  |
+|:-----------------|:-----------------|
+| 6 September 2024 | Assigned         |
+| 26 September 2024| Slides due (all groups) |
+| 27 September 2024| Presentation Group 1 |
+| 4 October 2024   | Presentation Group 2 |
+
 ## Demo Day Presentation
 
 Your Demo Day presentation is a `5` minute presentation composed of:
@@ -14,11 +21,12 @@ Your Demo Day presentation is a `5` minute presentation composed of:
 
 #### `Introduction`
 
-Likely the most difficult part to get right, the `Introduction` typically has its own formal conventions:
+Likely the most difficult part to get right, the `Introduction` features some formal constraint-based conventions
+which make it a bit tough:
 
 - [ ] the name of the project
 - [ ] simple, succinct description of the project which is direct and _not abstract_
-- [ ] the value/problem that the project, fully completed, will provide or solve
+- [ ] the well-defined value/problem that the project, fully completed, will provide or solve
 - [ ] evidence that provides scale or support for the value provided or problem addressed
 
 While departures from this format obviously work, focusing on building your presentation from these elements
@@ -60,8 +68,9 @@ Some areas to cover in this section (not limited to):
 - [ ] any areas where you've completed coursework (esp. a minor concentration)
   - you don't need to list individual courses
 - [ ] involvement in a community around/for which this project is built
-- [ ] deep curiosity in a subject and its application
-- [ ] a keen intent to work in a fielf encompassing or adjacent to your project
+- [ ] curiosity in a subject and its application
+- [ ] an intent to become a professional in a field encompassing or adjacent to your project
+- [ ] a clear articulation of how this project achieves a non-academic goal
 
 #### `Conclusion`
 
@@ -118,8 +127,8 @@ Keep in mind that this presentation is not for the presenter relaying the conten
 presentation. The ways in which a given slide reinforces (but does not _duplicate_!) what the content you're delivering helps
 the audience with our two retention problems:
 
-* folks will really only remember the 3-4 facts you use as your presentation `Conclusion`
 * the audience will only pay attention to 1 idea at a time
+* folks will really only remember the 3-4 facts you use as your presentation `Conclusion`
 
 ##### On practice
 
@@ -130,11 +139,18 @@ the ultimate concluding slide(s), you've lost your chance to make the presentati
 
 Short assignments in this course will force you to practice, though you should practice even more on your own. You should
 practice with friends that know your project. You should practice with friends that don't know your project. You should
-practice with your reader. Ideally, practice with anyone who you can convince to pay attention.
+practice with your readers. You should organize practice sessions with other folks practing and order pizza.
 
-As presentation day approaches, you should be able to present your `5` minutes as if a memorized fact. The only way you get there
-is by practice.
+Ideally, practice with anyone who you can convince to pay attention.
+
+As presentation day approaches, you should be able to present your `5` minutes as if a set of memorized facts. The only way you get there
+is through practice.
 
 ### Evaluation
 
+Presentation attendees have the opportunity to submit scorecards for each project. These scorecards are organized around the criteria
+defined at the start of this document and are `Yes`/`No` responses to a series of questions with additional space to rate a given
+presentation as `Exceptional` in a particular category.
 
+The evaluation form will be released on the first day of presentations. Attendees will be given a short amount of time between presentations
+to complete the form.
