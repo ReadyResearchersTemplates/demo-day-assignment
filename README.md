@@ -17,6 +17,15 @@ Your Demo Day presentation is a `5` minute presentation composed of:
 * a short profile of you and your expertise as it relates to the project
 * a conclusion which reinforces the key points of your project
 
+### Turning in your presentation
+
+You'll notice that everyone has the same due date for slides: `26 September 2024` (the day before presentations start).
+At that time, Faculty will expect that you've turned your slides in using `PDF` form. To turn them in, you will upload
+the final `PDF` to the `docs` folder of your `research journal` (the folder will exist before the due date, even if
+it doesn't as of issuing this assignment).
+
+As a reminder, due to the form (`PDF`), there isn't really any way to effectively do animation. Keep that in mind.
+
 ### Structure
 
 #### `Introduction`
